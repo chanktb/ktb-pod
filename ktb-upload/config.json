@@ -1,0 +1,49 @@
+{
+  "remote_queue_dir": "/home/khue/ktb_tmp_uploads",
+  "default_user_author": "tran",
+  "delete_zip_after_upload": true,
+  "sites": [
+    {
+      "slug": "ktbtee",
+      "prefix": "ktbtee",
+      "wp_path": "/home/ktbtee.com/public_html",
+      "wp_author": "tran",
+      "vps_secret_prefix": "KTBTEE"
+    },
+    {
+      "slug": "whatwillwear",
+      "prefix": "whatwillwear",
+      "wp_path": "/home/whatwillwear.com/public_html",
+      "wp_author": "tran",
+      "vps_secret_prefix": "WHATWILLWEAR"
+    },
+    {
+      "slug": "amertee",
+      "prefix": "amertee",
+      "wp_path": "/home/amertee.com/public_html",
+      "wp_author": "tran",
+      "vps_secret_prefix": "AMERTEE"
+    },
+    {
+      "slug": "printiment",
+      "prefix": "printiment",
+      "wp_path": "/home/printiment.com/public_html",
+      "wp_author": "tran",
+      "vps_secret_prefix": "PRINTIMENT"
+    },
+    {
+      "slug": "albumcoverprint",
+      "prefix": "albumcoverprint",
+      "wp_path": "/home/albumcoverprint.com/public_html",
+      "wp_author": "tran",
+      "vps_secret_prefix": "ALBUMCOVERPRINT"
+    },
+    {
+      "slug": "vflippa",
+      "prefix": "vflippa",
+      "wp_path": "/home/vflippa.com/public_html",
+      "wp_author": "tran",
+      "vps_secret_prefix": "VFLIPPA"
+    }
+  ]
+}

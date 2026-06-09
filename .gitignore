@@ -1,0 +1,10 @@
+# Ignore tất cả mọi thứ
+*
+
+# Chỉ cho phép url-lists/ và all_image_urls.txt
+!url-lists/
+!url-lists/**
+!all_image_urls.txt
+
+# Và chính file .gitignore
+!.gitignore
